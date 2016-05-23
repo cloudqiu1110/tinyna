@@ -31,3 +31,7 @@
 # Debug files
 *.dSYM/
 x64
+/*.sdf
+/*.suo
+/*.opensdf
+/test/*.user
